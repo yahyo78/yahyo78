@@ -1,10 +1,7 @@
 # 💫 About Me:
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome-to+My+Profile;I'm Hasanov+%7C+Yahyo.js;Junior+Frontend+Developer;" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F3F0FC&width=435&lines=Welcome+To+My+Profile;I'm+Hasanov+Yahyo;Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
