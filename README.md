@@ -1,6 +1,8 @@
 # 💫 About Me:
 
 
+  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F3F0FC&width=450&lines=Welcome+To+My+Profile;I'm+Hasanov+Yahyo;Junior+Frontend+Developer+)](https://git.io/typing-svg)
 
 
