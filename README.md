@@ -3,19 +3,7 @@
 
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=30
-&duration=2200
-&pause=900
-&color=00F7FF
-&center=true
-&vCenter=true
-&width=720
-&lines=Welcome+to+my+GitHub+profile!;Hasanov+Yahyo;Junior+Frontend+Developer"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hasanov+Yahyo;Junior-Frontend-Developer;" alt="Typing SVG" />
 </p>
 
 
