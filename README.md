@@ -1,8 +1,10 @@
 # 💫 About Me:
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Junior-Frontend+Developer;React+%7C+Next.js;Clean+Code;" alt="Typing SVG" />
-</p>>
+</p>
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
