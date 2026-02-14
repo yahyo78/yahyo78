@@ -7,7 +7,7 @@
 # 💫 About Me:
 <br/>
 
-Frontend Dev 💻
+Frontend Dev 💻\n
 Turning ideas into interactive UI
 Clean code & smooth design
 Open to collaboration
